@@ -1,9 +1,8 @@
-## Introduction
-# What am I trying to do?
+# Introduction
 Most of the Coronavirus data driven work I have seen has been tracking the number of:
--cases
--deaths
--recoveries
+- cases
+- deaths
+- recoveries
 
 I will be taking a different approach and will be exploring the data on Coronavirus testing in each province. I believe the results of the testing can produce a better understanding of the severity of the pandemic in each Province.
 
