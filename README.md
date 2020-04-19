@@ -1,3 +1,21 @@
+## Provincial Covid Testing
+There is a ot of data being produced during the current pandemic:
+1. Cases, 
+2. Hospitalizations, 
+3. Deaths
+4. Testing
+5. Etc
+I have chosen to examine the testing being done by each Province.  Each Province has differnet criteria for testing 
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/acarmichael20/Hello-World/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
