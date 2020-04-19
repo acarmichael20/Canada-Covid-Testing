@@ -23,7 +23,7 @@ I will be taking a different approach and will be exploring the data on Coronavi
 
 
 
-<a href="page2.html">Page 2</a>
+<a href="page2.html">Per Capita Testing</a>
 
 
 
