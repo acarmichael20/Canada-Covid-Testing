@@ -1,11 +1,15 @@
-## Provincial Covid Testing
-There is a ot of data being produced during the current pandemic:
-1. Cases, 
-2. Hospitalizations, 
+## Canadian Covid Data
+There is a ot of data being produced during the Coronavirus pandemic:
+1. Cases
+2. Hospitalizations 
 3. Deaths
-4. Testing
-5. Etc
-I have chosen to examine the testing being done by each Province.  Each Province has differnet criteria for testing 
+4. Recoveries
+5. Testing
+
+I have chosen to explore the testing data that is being published by each Province and try and 
+
+# Provincial Covid Testing
+
 
 
 
