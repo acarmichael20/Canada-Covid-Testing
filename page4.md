@@ -12,6 +12,8 @@ Since the testing data is dirty, therefore looking at the Coronavirus positive r
 
 ![Image](https://acarmichael20.github.io/Canada-Covid-Testing/WeeklyHitRate.png)
 
+In the above chart, Coronavirus appears to be continuing to spread in Ontario as indicated by the increasing positive test rate. Quebec seems to reducing the spread of the virus but is still finding an infection rate of ~13%.
+
 
 
 
