@@ -1,14 +1,14 @@
 ---
 title: Average Positive Test Rate
 ---
-# Coronaviruse Testing Positive Rate
+# Coronavirus Positive Test Rate
 My initial assumption is that each Province is using similar criteria to determine if a person is to be tested for Coronavirus.  If Coronavirus is evenly distributed across the Provinces, testing should reveal a similar positive test rate.  
 
 
 ![Image](https://acarmichael20.github.io/Canada-Covid-Testing/HitRate.png)
 
 
-In the above chart, it is apparent that the positive test rate varies significantly across from Province to Province.  This indicates that:
+In the above chart, it is apparent that the positive test rate varies significantly from Province to Province.  This indicates that:
 1. The testing criteria are not uniform across the Provinces.<br/>
 *or*<br/>
 2. The Coronavirus infection rate is not equal across the Provinces.
