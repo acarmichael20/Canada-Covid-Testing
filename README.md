@@ -22,7 +22,7 @@ I will be taking a different approach and will be exploring the data on Coronavi
 
 
 <p>| ————-
-<a href="https://github.com/acarmichael20/Canada-Covid-Testing/blob/master/README.html">Refresh</a> | <a href="https://github.com/acarmichael20/Canada-Covid-Testing/blob/master/page2.html">Next</a>
+<a href="https://acarmichael20.github.io/Canada-Covid-Testing/">Refresh</a> | <a href="https://acarmichael20.github.io/Canada-Covid-Testing/page2.html">Next</a>
 ———— |</p>
 
 <a href="page2.html">Per Capita Testing</a>
