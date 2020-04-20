@@ -9,5 +9,8 @@ As of April 19, 2020, the majority of the Covid cases in Canada are in Quebec an
 
 
 
+<p>| ————-
+<a href="README.html">Back</a> | <a href="page3.html">Next</a>
+———— |</p>
 
-<a href="README.html">Back</a> <a href="page3.html">Per Capita Testing</a>
+<!-- <a href="README.html">Back</a> <a href="page3.html">Per Capita Testing</a> -->
