@@ -5,7 +5,7 @@ title: Weekly Positive Test Rate
 
 Much of the analysis being done on flattening the curve is centered on the increase in cases of Coronavirus day over day. Since the  number of cases is directly related to the number of tests, perhaps looking at the number of daily positive tests relative to daily  test will be more informative.  
 
- Positive Rate = Weekly Positive Tests &divide Total Weekly Tests 
+ Positive Rate = Weekly Positive Tests &divide; Total Weekly Tests 
 
 ![Image](https://acarmichael20.github.io/Canada-Covid-Testing/WeeklyHitRate.png)
 
