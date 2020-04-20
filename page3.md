@@ -10,7 +10,9 @@ My initial assumption is that each Province is using similar criteria to determi
 
 In the above chart, it is apparent that the positive test rate varies significantly across from Province to Province.  This indicates that:
 1. The testing criteria are not uniform across the Provinces.
+
 *or*
+
 2. The Coronavirus infection rate is not equal across the Provinces.
 
 
