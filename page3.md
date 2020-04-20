@@ -6,7 +6,7 @@ title: Average Positive Test Rate
 
 
 
-![Image](https://github.com/acarmichael20/Canada-Covid-Testing/blob/master/HitRate.png)
+![Image](https://acarmichael20.github.io/Canada-Covid-Testing/HitRate.png)
 
 
 
