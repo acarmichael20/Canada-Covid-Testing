@@ -21,7 +21,9 @@ I will be taking a different approach and will be exploring the data on Coronavi
 5.	The data being reported is correct.
 
 
-
+<p>| ————-
+<a href="https://github.com/acarmichael20/Canada-Covid-Testing/blob/master/README.html">Refresh</a> | <a href="https://github.com/acarmichael20/Canada-Covid-Testing/blob/master/page2.html">Next</a>
+———— |</p>
 
 <a href="page2.html">Per Capita Testing</a>
 
