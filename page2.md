@@ -7,6 +7,8 @@ As of April 19, 2020, the majority of the Covid cases in Canada are in Quebec an
 
 ![Image](https://acarmichael20.github.io/Canada-Covid-Testing/TestingPerCapita.png)
 
+The above chart shows the number of tests per 1,000 people in each Province.  Ontario and Quebec are not even in the top 5 Provinces for testing.  
+
 
 
 <p>| ————-
@@ -14,3 +16,13 @@ As of April 19, 2020, the majority of the Covid cases in Canada are in Quebec an
 ———— |</p>
 
 <!-- <a href="README.html">Back</a> <a href="page3.html">Per Capita Testing</a> -->
+
+@import "{{ site.theme }}";
+
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
