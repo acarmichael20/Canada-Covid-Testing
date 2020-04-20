@@ -5,7 +5,7 @@ title: Weekly Positive Test Rate
 
 
 
-![Image](https://github.com/acarmichael20/Canada-Covid-Testing/blob/master/WeeklyHitRate.png)
+![Image](https://acarmichael20.github.io/Canada-Covid-Testing/WeeklyHitRate.png)
 
 
 
