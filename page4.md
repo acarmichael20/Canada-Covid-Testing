@@ -8,7 +8,7 @@ Much of the analysis being done on flattening the curve is centered on the incre
 <p align="center">Positive Rate = Weekly Positive Tests &divide; Total Weekly Tests</p>
  
 
-![Image](https://acarmichael20.github.io/Canada-Covid-Testing/TestingPerCapita.png)
+![Image](https://acarmichael20.github.io/Canada-Covid-Testing/HitRate.png)
 
 
 
