@@ -16,13 +16,3 @@ The above chart shows the number of tests per 1,000 people in each Province.  On
 ———— |</p>
 
 <!-- <a href="README.html">Back</a> <a href="page3.html">Per Capita Testing</a> -->
-
-@import "{{ site.theme }}";
-
-footer {
-  display: none !important;
-}
-
-.btn {
-  display: none !important;
-}
