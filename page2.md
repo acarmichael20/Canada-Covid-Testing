@@ -10,7 +10,7 @@ As of April 19, 2020, the majority of the Covid cases in Canada are in Quebec an
 
 
 <p>| ————-
-<a href="https://acarmichael20.github.io/Canada-Covid-Testing/">Back</a> | <a href="https://acarmichael20.github.io/Canada-Covid-Testing/ps://github.com/acarmichael20/Canada-Covid-Testing/blob/master/page3.html">Next</a>
+<a href="https://acarmichael20.github.io/Canada-Covid-Testing/">Back</a> | <a href="https://acarmichael20.github.io/Canada-Covid-Testing/page3.html">Next</a>
 ———— |</p>
 
 <!-- <a href="README.html">Back</a> <a href="page3.html">Per Capita Testing</a> -->
