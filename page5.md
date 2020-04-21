@@ -2,7 +2,7 @@
 title: Conclusion
 ---
 
-# Conclusions
+# Conclusion
 
 Looking at Coronavirus testing, rather than cases, provides produces a more accurate picture of the pandemic in Canada.
 
