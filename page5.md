@@ -14,9 +14,8 @@ Looking at Coronavirus testing, rather than cases, provides produces a more accu
 - Find a different data source to cross check with.
 - Investigate how some Provinces (New Brunswick) are utilizing fewer tests per 1,000 people yet have the second highest rate of infection afer Quebec.
 
-\
-\
-\
+<br/>
+<br/>
 
 
 
