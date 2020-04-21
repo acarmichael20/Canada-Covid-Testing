@@ -4,7 +4,7 @@ title: Conclusion
 
 # Conclusion
 
-Looking at Coronavirus testing, rather than cases, provides produces a more accurate picture of the pandemic in Canada.
+Looking at Coronavirus testing, rather than cases, provides a more accurate picture of the pandemic in Canada.
 
 
 # Improvements
