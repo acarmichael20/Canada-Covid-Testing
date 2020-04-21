@@ -3,7 +3,7 @@ title: Weekly Positive Test Rate
 ---
 # Coronavirus Positive Test Rate Over Time
 
-Much of the analysis being done on flattening the curve is centered on the increase in cases of Coronavirus day over day. I think focusing on this approach is wrong because the number of cases is tied to the number of tests. A better metric to look at what proportion of tests are positive.  
+Much of the analysis being done on flattening the curve is centered on the increase in cases of Coronavirus day over day. Focusing on this number may be misleading as the number of cases is tied to the number of tests. Perhaps a better metric is to look at what proportion of tests are positive.  
  
 
 <p align="center"><b>Positive Rate = Weekly Positive Tests &divide; Total Weekly Tests</b></p>
